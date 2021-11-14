@@ -2,6 +2,6 @@ Hola GIT!
 
 
 Soy Marina Guijarro y estoy haciendo la práctica de ED. 
-
+Estoy haciendo un cambio en Github
 
 Saludos.
